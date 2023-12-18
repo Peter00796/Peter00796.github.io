@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Older Game"
-summary: "Associate Technical Designer"
+title:  "SuperMario"
+summary: "Classic Game"
 date:   2022-09-07 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/SuperMario/SuperMarioPreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/SuperMario/SuperMario.png)
+![Picture 2](/assets/SuperMario/SuperMario2.png)
 
-Put down info here, either in bullets or paragraphs.
+- Designed 2D collision detection and character 
+- Create diffrent character classes and basic enemy AI
+
+
+[Link to My Portal Game on GitHub](https://github.com/itp380-20233/labs-Peter00796/tree/master/Lab4)
