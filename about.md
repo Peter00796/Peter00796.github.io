@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Porfile_Photo/Formal_Photo.jpg)
 
 👋 Hello! I'm Yanxin Peng, currently a sophomore at University of Southern California majoring in Computer Science, minoring in Music Production and Artificial Intelligence.
 
