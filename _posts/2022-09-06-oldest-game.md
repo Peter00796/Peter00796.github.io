@@ -8,10 +8,15 @@ preview: /assets/PortalGame/PortalGamePreview_Image.png
 
 ![Picture 1](/assets/PortalGame/PortalGameImage.png)
 
+- HUD game substitles and voice guidline
+
 ![Picture 2](/assets/PortalGame/PortalGamePellet.png)
 
+- Turrets and laser shooting
 
-Put down info here, either in bullets or paragraphs.
+
+
+## 3D Game Development
 
 - Coded in C++ and used SDL2 library for the Game development
 - Coded 3D collision detection basic FPS player movement.
