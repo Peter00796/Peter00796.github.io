@@ -31,4 +31,4 @@ preview: /assets/BasketBLE/BasketBLE_Preview.png
 - Expertly crafted a user-friendly interface using UIKit and Autolayout, enhancing user experience in account management, in-app messaging, and interactive map navigation.
 - Engineered a robust and secure NoSQL Firebase database for user authentication and data storage, ensuring high performance and data integrity.
 
-[Github link for the game](https://github.com/Peter00796/201FinalProject)
+[Github link for the App](https://github.com/Peter00796/BaskeBLE)
