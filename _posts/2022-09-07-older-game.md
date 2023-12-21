@@ -13,4 +13,4 @@ preview: /assets/SuperMario/SuperMarioPreview.png
 - Create diffrent character classes and basic enemy AI
 
 
-[Link to My Portal Game on GitHub](https://github.com/itp380-20233/labs-Peter00796/tree/master/Lab4)
+[Link to the Mario Game on GitHub](https://github.com/itp380-20233/labs-Peter00796/tree/master/Lab4)

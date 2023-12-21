@@ -25,5 +25,5 @@ preview: /assets/PortalGame/PortalGamePreview_Image.png
 - Coded 3D Sound System and HUD for Game leading
 - Created Enemy AI with a State Machine 
 
-[Link to My Portal Game on GitHub](https://github.com/itp380-20233/labs-Peter00796/tree/master/Lab12)
+[Link to the Portal Game on GitHub](https://github.com/itp380-20233/labs-Peter00796/tree/master/Lab12)
 
